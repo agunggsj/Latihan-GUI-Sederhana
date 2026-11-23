@@ -11,17 +11,6 @@
 - Klik dua kali pada lagu untuk langsung memutarnya
 - Tekan Enter di kolom artis untuk menambah lagu dengan cepat
 
-## Cara Menjalankan
-
-1. Simpan file `PlaylistSederhana.java` di satu folder.
-2. Buka terminal atau command prompt di folder tersebut.
-3. Kompilasi dan jalankan:
-
-```
-javac PlaylistSederhana.java
-java PlaylistSederhana
-```
-
 ## Cara Menggunakan
 
 | Aksi | Cara |
